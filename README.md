@@ -4,7 +4,7 @@
 A major problem in the United States is the rising gasoline prices and uncertainty in the market. In this project, we will be exploring if the upward trend of gasoline prices will continue and if it is possible to predict the price of gasoline in a short time period. 
 
 **Team Members**  
-Narathip Rodwarna, Chen-Yang Lin, Ruoyu Sun, and Liam Harding
+Narathip Rodwarna, Ruoyu Sun, and Liam Harding
 
 **Dataset Sources**  
 ●	Dataset 1: Weekly U.S. All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)
